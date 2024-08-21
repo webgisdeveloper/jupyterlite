@@ -2,6 +2,8 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://webgisdeveloper.github.io/jupyterlite)
 
+[Open A demo in notebook interface](https://webgisdeveloper.github.io/jupyterlite/notebooks/index.html?path=viz_job001.ipynb)
+
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## Requirements
